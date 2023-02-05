@@ -1,0 +1,25 @@
+{
+  "name": "mafuyu-bot-discord",
+  "version": "1.0.0",
+  "description": "Making bot discord using GPT-3 OpenAI",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/renzien/mafuyu-bot-discord.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/renzien/mafuyu-bot-discord/issues"
+  },
+  "homepage": "https://github.com/renzien/mafuyu-bot-discord#readme",
+  "dependencies": {
+    "discord.js": "^14.7.1",
+    "dotenv": "^16.0.3",
+    "openai": "^3.1.0"
+  }
+}
